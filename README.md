@@ -60,7 +60,7 @@ Watch the video walkthrough of the chat application to get a detailed overview o
 To clone the chat application repository, run the following command:
 
 ```bash
-git clone https://github.com/your-repo-url/chat-app.git
+git clone https://github.com/your-repo-url/chat-app.git](https://github.com/Priyam7295/ChatApp-ChatBot.git)
 ```
 ### Step 2:
 ```
