@@ -5,6 +5,7 @@
 2. [🎥 Project Demo](#project-showcase)
 3. [💻 Tech Used](#tech-used)
 4. [⚙️ Installation](#installation)
+5. [✨ Features](#)
 
 ## 📜 Personal Information
 
@@ -99,8 +100,8 @@ DATABSE_URL="mongodb+srv://rajpriyam857885:R2ZBUhqrNGZQDT5I@cluster0.red2y.mongo
 In one terminal ,
 Run the following command to start client
 ```
-npm i
 cd .\client\
+npm i
 npm run dev
 ```
 ### Step 6:
@@ -108,8 +109,8 @@ Open other terminal ,
 Run the following command to open backend server
 
 ```
-npm i
 cd .\server\
+npm i
 node .\index.js
 ```
 
@@ -118,3 +119,10 @@ On browser open the following link:
 ```
  http://localhost:5173
 ```
+
+---
+## Features
+1. Chat application to stay connected.
+2. Create chat groups and channels to communicate in groups.
+3. Integrated chatbot for ease—no need to switch between platforms.
+
