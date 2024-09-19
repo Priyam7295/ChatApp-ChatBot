@@ -63,11 +63,11 @@ To clone the chat application repository, run the following command:
 git clone https://github.com/Priyam7295/ChatApp-ChatBot.git
 ```
 ### Step 2:
+**NOTE:- For evaluation ease I am providing my key for gemini ,I will remove it otherwise**.
 ```
-get key from gemini
+get key from gemini(I have added for now for ease)
 ```
 ### Step 3: 
-**NOTE:- For your ease I am proving key for gemini ,I will remove it otherwise**.
 
 Create a **.env** file inside the **client** directory.
 
