@@ -72,7 +72,8 @@ To clone the chat application repository, run the following command:
 2. cd .\ChatApp-ChatBot\
 ```
 ### Step 2:
-**NOTE:- For evaluation ease I am providing my key for gemini ,I will remove it otherwise**.
+**NOTE:- For evaluation ease I am providing my key for gemini (so you donot need to do anything here.) 
+I will remove it otherwise**. 
 ```
 get key from gemini(I have added for now for ease)
 ```
@@ -80,7 +81,7 @@ get key from gemini(I have added for now for ease)
 
 Create a **.env** file inside the **client** directory.
 
-Copy and edit the below content inside the .env accordingly.
+Copy =the below content inside the .env .
 ```bash
 VITE_SERVER_URL="http://localhost:8747"
 VITE_SOCKET_URL="http://localhost:8747"
@@ -89,7 +90,7 @@ CHATBOT_URL ="AIzaSyCH5dziKTJHiDdZFwelw8ah_sOejy7iDro"
 ### Step 4: 
 
 Create a **.env** file inside the **server** directory.
-Copy and edit the below content inside the .env accordingly.
+Copy the below content inside the .env accordingly.
 ```bash
 PORT=8747
 JWT_KEY="2asasadasdasdadsa%$#secretkey"
