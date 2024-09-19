@@ -1,0 +1,51 @@
+@keyframes greeting {
+    0% {
+      opacity: 0;
+      transform: translateY(-10%) scale(0.8) rotate(0deg);
+    }
+    20% {
+      opacity: 1;
+      transform: translateY(0) scale(1) rotate(5deg);
+    }
+    80% {
+      opacity: 1;
+      transform: translateY(0) scale(1) rotate(5deg);
+    }
+    100% {
+      opacity: 0;
+      transform: translateY(10%) scale(1.5) rotate(12deg);
+    }
+  }
+  
+  .animate-greeting {
+    animation: greeting 5s ease-in-out forwards;
+  }
+  
+  .relative {
+    position: relative;
+  }
+  
+  .absolute {
+    position: absolute;
+  }
+  
+  .w-full {
+    width: 100%;
+  }
+  
+  .h-screen {
+    height: 100vh;
+  }
+  
+  .overflow-hidden {
+    overflow: hidden;
+  }
+  
+  .font-bold {
+    font-weight: bold;
+  }
+  
+  .text-2xl {
+    font-size: 1.1rem;
+  }
+  

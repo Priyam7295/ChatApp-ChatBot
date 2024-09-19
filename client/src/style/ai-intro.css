@@ -1,0 +1,16 @@
+.ai-chat-head {
+    display: flex;
+    justify-content: center;
+    align-items: center; /* Center items vertically */
+    padding-top: 10px;
+    border-top: 1px solid rgb(155, 88, 153);
+}
+
+.ai-chat-head p {
+    cursor: pointer;
+    margin: 0; /* Remove default margin */
+}
+
+.ai-chat-head img {
+    width: 40px;
+}

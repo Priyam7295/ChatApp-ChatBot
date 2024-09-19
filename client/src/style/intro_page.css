@@ -1,0 +1,36 @@
+.welcomelogin {
+    color: rgb(8, 8, 69);
+    font-weight: 620;
+    font-size: 49px;
+  }
+  
+  @media (max-width: 1200px) {
+    .welcomelogin {
+      font-size: 38px; /* Adjust font size for large tablets or small desktops */
+    }
+  }
+  
+  @media (max-width: 992px) {
+    .welcomelogin {
+      font-size: 34px; /* Adjust font size for tablets */
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .welcomelogin {
+      font-size: 30px; /* Adjust font size for small tablets or landscape phones */
+    }
+  }
+  
+  @media (max-width: 576px) {
+    .welcomelogin {
+      font-size: 26px; /* Adjust font size for larger phones */
+    }
+  }
+  
+  @media (max-width: 400px) {
+    .welcomelogin {
+      font-size: 22px; /* Adjust font size for smaller phones */
+    }
+  }
+  

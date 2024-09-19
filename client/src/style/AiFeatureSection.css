@@ -1,0 +1,53 @@
+/* Container with reversed layout */
+.ai-feature-section-reversed {
+    display: flex;
+    align-items: center; /* Center items vertically */
+    padding: 20px;
+    background-color: #f9f9f9;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  /* Text */
+  .ai-feature-text {
+    flex: 1; /* Allow the text to take remaining space */
+    text-align: left; /* Align text to the left */
+    margin-right: 20px; /* Space between text and image */
+  }
+  
+  .ai-feature-heading {
+    font-size: 1.75rem; /* Slightly smaller heading */
+    font-weight: 500; /* Slightly less bold */
+    color: navy; /* Navy color for heading */
+    margin-bottom: 10px;
+  }
+  
+  .ai-feature-list {
+    font-size: 1rem; /* Smaller font size for bullet points */
+    line-height: 1.6;
+    color: #555;
+    list-style-type: none; /* Remove default bullets */
+    padding-left: 0; /* Remove padding */
+  }
+  
+  .ai-feature-list li {
+    margin-bottom: 10px; /* Space between list items */
+    display: flex; /* Use flexbox for alignment */
+    align-items: center; /* Center items vertically */
+  }
+  
+  .tick-icon {
+    color: navy; /* Navy color for tick icon */
+    font-size: 1.2rem; /* Slightly larger size for visibility */
+    margin-right: 10px; /* Space between tick icon and text */
+  }
+  
+  /* Image */
+  .ai-feature-image {
+    width: 50%; /* Adjust width as needed */
+    max-width: 600px; /* Ensure it doesn’t get too large */
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-left: 20px; /* Space between image and text */
+  }
+  

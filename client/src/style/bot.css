@@ -1,0 +1,96 @@
+/* General body styles for dark theme */
+body {
+    background-color: #1f1f1f;
+    color: #e0e0e0;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Chat container styles */
+.bg-dark {
+    background-color: #1b1c24; /* Updated background color */
+    border: 2px solid #333;    /* Border around chat area */
+    border-radius: 8px;        /* Optional: rounded corners for the border */
+    padding: 10px;             /* Optional: add padding inside the chat area */
+}
+
+/* Text area and button styles */
+textarea {
+    background-color: #333;
+    color: #e0e0e0;
+    /* border-color: #444; */
+}
+
+textarea:focus {
+    /* border-color: #555; */
+    outline: none;
+}
+
+.button-chatbot {
+    background-color: #007bff; /* Send button background color */
+    color: #fff;
+    border: none;              /* Remove default border */
+    border-radius: 5px;        /* Optional: rounded corners for the button */
+    padding: 10px 20px;        /* Padding inside the button */
+    cursor: pointer;           /* Pointer cursor on hover */
+    font-size: 16px;           /* Font size for better readability */
+}
+
+.button-chatbot:hover {
+    background-color: #0056b3; /* Darker color on hover */
+}
+
+/* Message bubble styles */
+.message-bubble {
+    padding: 10px;
+    border-radius: 10px;
+    display: inline-block;
+    max-width: 80%;
+}
+
+/* User message bubble */
+.message-bubble.user {
+    background-color: #a16ee8; /* User message color */
+    color: #fff;
+    text-align: right;
+}
+
+/* Bot message bubble */
+.message-bubble.bot {
+    background-color: #444; /* Bot message color */
+    color: #e0e0e0;
+}
+
+/* Absolute positioning for logo */
+.absolute {
+    position: absolute;
+}
+
+.top-4 {
+    top: 1rem;
+}
+
+.left-4 {
+    left: 1rem;
+}
+.sendchat{
+    background-color:#a16ee8;
+    color:white;
+}
+.header-bot{
+    color:white;
+    background-color:#1b1c24;
+    
+}
+
+
+.prompt{
+    color:white;
+    overflow: hidden;
+    /* resize: 40px; */
+}
+
+.chatbot-section{
+    /* border:1px solid #391b64; */
+}
