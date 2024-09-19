@@ -54,37 +54,42 @@ To clone the chat application repository, run the following command:
 ```bash
 git clone https://github.com/your-repo-url/chat-app.git
 ```
-### Step 2: 
-
-Create a **.env** file inside the **client** directory.
-Copy and edit the below content inside the .env accordingly.
-```bash
-jhas
-asdas
-asdf
+### Step 2:
+```
+get key from gemini
 ```
 ### Step 3: 
+**NOTE:- For your ease I am proving key for gemini ,I will remove it otherwise**.
+
+Create a **.env** file inside the **client** directory.
+
+Copy and edit the below content inside the .env accordingly.
+```bash
+VITE_SERVER_URL="http://localhost:8747"
+VITE_SOCKET_URL="http://localhost:8747"
+CHATBOT_URL ="AIzaSyCH5dziKTJHiDdZFwelw8ah_sOejy7iDro"
+```
+### Step 4: 
 
 Create a **.env** file inside the **server** directory.
 Copy and edit the below content inside the .env accordingly.
 ```bash
-jhas
-asdas
-asdf
-```
-### Step 4:
-```
-get key for gemini asldkjalfmla;d
+PORT=8747
+JWT_KEY="2asasadasdasdadsa%$#secretkey"
+ORIGIN="http://localhost:5173"
+
+DATABSE_URL="mongodb+srv://rajpriyam857885:R2ZBUhqrNGZQDT5I@cluster0.red2y.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 ```
 ### Step 5:
+In terminal ,
 Run the client
 ```
-cd safdas
+cd .\client\
 npm run dev
 ```
 ### Step 6:
 Run the server
 ```
-cd safdas
-node ksa
+cd .\server\
+node .\index.js
 ```
