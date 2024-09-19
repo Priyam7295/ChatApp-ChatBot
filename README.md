@@ -101,3 +101,9 @@ Run the server
 cd .\server\
 node .\index.js
 ```
+
+### Step 7:
+On browser open the following link:
+```
+ http://localhost:5173
+```
