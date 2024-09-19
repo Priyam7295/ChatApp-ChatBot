@@ -1,12 +1,18 @@
 # Chat Application
 
-## Personal Information
+## 🚀 Content
+1. [📜 Personal Information](#personal-information)
+2. [🎥 Project Demo](#project-showcase)
+3. [💻 Tech Used](#tech-used)
+4. [⚙️ Installation](#installation)
+
+## 📜 Personal Information
 
 ![Name Badge](https://img.shields.io/badge/Name-PRIYAM-blue)  
 ![University Badge](https://img.shields.io/badge/University-Indian%20Institute%20of%20Technology%20Mandi%20(IIT%20Mandi)-green)  
 ![Department Badge](https://img.shields.io/badge/Department-Data%20Science%20and%20Engineering%20(DSE)-orange)
 
-## Project Showcase
+## 🎥 Project Showcase
 
 ### Screenshots
 
@@ -29,7 +35,7 @@ Watch the video walkthrough of the chat application to get a detailed overview o
 
 ---
 
-## Tech Used
+## 💻 Tech Used
 
 - **Frontend**: ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)  
 - **Backend**: ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)  
@@ -39,90 +45,30 @@ Watch the video walkthrough of the chat application to get a detailed overview o
 
 ---
 
-# System Design Document: Chat Application
+## ⚙️ Installation
 
-## 1. Introduction
+### Step 1: Clone the repository
 
-**Purpose**: This document outlines the design of a chat application, detailing its features and how they interact.
+To clone the chat application repository, run the following command:
 
-**Scope**: The document covers authentication, profile setup, user search, chat functionalities, file sharing, group chat, and chatbot integration.
+```bash
+git clone https://github.com/your-repo-url/chat-app.git
+```
+### Step 2: 
 
-## 2. System Overview
+Create a **.env** file inside the **client** directory.
+Copy and edit the below content inside the .env accordingly.
+```bash
+jhas
+asdas
+asdf
+```
+### Step 3: 
 
-The chat application consists of several interconnected components:
-
-- **Frontend**: User interface for interacting with the application.
-- **Backend**: Server-side logic and database interactions.
-- **Database**: Stores user data, chat history, and file information.
-- **Authentication**: Handles user login and token management.
-- **Chatbot**: Provides AI-driven assistance.
-
-## 3. Components and Interaction
-
-### **Authentication**
-
-**Description**: Users start on the authentication page where they log in using JWT-based authentication.
-
-**Interaction**:
-- **Frontend**: User submits login credentials.
-- **Backend**: Verifies credentials and generates a JWT token.
-- **Database**: Authenticates user details.
-- **Next Step**: Redirects to profile setup.
-
-### **Profile Setup**
-
-**Description**: Post-authentication, users set up their profile by entering their name and uploading a display picture.
-
-**Interaction**:
-- **Frontend**: Provides form for name and profile picture.
-- **Backend**: Stores user profile information and updates the database.
-- **Database**: Saves the user's name and profile picture URL.
-- **Next Step**: Redirects to the main chat interface.
-
-### **User Search and Chat**
-
-**Description**: Users can search for other users by email ID and initiate one-on-one chats.
-
-**Interaction**:
-- **Frontend**: Provides search functionality and chat interface.
-- **Backend**: Searches for users by email and retrieves chat history.
-- **Database**: Stores user details and chat messages.
-- **Next Step**: Opens chat window with selected user.
-
-### **Group Chat Creation**
-
-**Description**: Users can create chat groups and invite multiple participants.
-
-**Interaction**:
-- **Frontend**: Allows group creation and user invitations.
-- **Backend**: Manages group creation and membership.
-- **Database**: Stores group details and participant information.
-- **Next Step**: Opens group chat interface.
-
-### **File and Image Sharing**
-
-**Description**: Users can send files and images within chats.
-
-**Interaction**:
-- **Frontend**: Provides file upload and image sharing options.
-- **Backend**: Handles file storage and message updates.
-- **Database**: Stores file references and message content.
-- **Next Step**: Displays files/images in chat.
-
-### **Chatbot Integration**
-
-**Description**: Users can interact with an integrated AI chatbot for support and information.
-
-**Interaction**:
-- **Frontend**: Provides a chat interface for chatbot interaction.
-- **Backend**: Processes chatbot queries and provides responses.
-- **Chatbot**: Uses AI to generate responses.
-- **Next Step**: Provides support without leaving the chat platform.
-
----
-
-## 4. System Architecture Diagram
-
-The system design of the chat application is illustrated by the following diagram:
-
-<img src="https://www.mermaidchart.com/raw/49a6fc30-b667-4f33-8e84-27465aa9bb52?theme=light&version=v0.1&format=svg" alt="System Architecture Diagram" style="width:40%;" />
+Create a **.env** file inside the **server** directory.
+Copy and edit the below content inside the .env accordingly.
+```bash
+jhas
+asdas
+asdf
+```
