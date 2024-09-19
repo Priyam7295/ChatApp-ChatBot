@@ -89,15 +89,19 @@ ORIGIN="http://localhost:5173"
 DATABSE_URL="mongodb+srv://rajpriyam857885:R2ZBUhqrNGZQDT5I@cluster0.red2y.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 ```
 ### Step 5:
-In terminal ,
-Run the client
+In one terminal ,
+Run the following command to start client
 ```
+npm i
 cd .\client\
 npm run dev
 ```
 ### Step 6:
-Run the server
+Open other terminal ,
+Run the following command to open backend server
+
 ```
+npm i
 cd .\server\
 node .\index.js
 ```
