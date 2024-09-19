@@ -12,11 +12,19 @@
 ![University Badge](https://img.shields.io/badge/University-Indian%20Institute%20of%20Technology%20Mandi%20(IIT%20Mandi)-green)  
 ![Department Badge](https://img.shields.io/badge/Department-Data%20Science%20and%20Engineering%20(DSE)-orange)
 
+
 ## 🎥 Project Showcase
 
 ### Screenshots
 
 Below are some small screenshots of the chat application:
+
+<img src="https://github.com/user-attachments/assets/224bd978-fa3f-4781-b507-5f02b45fb2ea" width="300" />
+<img src="https://github.com/user-attachments/assets/3e6eb75b-f4d9-4944-9bfc-d7b54c89a76d" width="300" />
+<img src="https://github.com/user-attachments/assets/44bb9ac5-d4ab-4ec6-b99c-304c15cd95d6" width="300" />
+
+
+
 
 - **Login Page**:  
   ![Login Page](https://via.placeholder.com/150x100?text=Login+Page)
