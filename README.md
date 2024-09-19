@@ -1,8 +1,10 @@
+# Chat Application
+
 ## Personal Information
 
- ![Name Badge](https://img.shields.io/badge/Name-PRIYAM-blue)  
- ![University Badge](https://img.shields.io/badge/University-Indian%20Institute%20of%20Technology%20Mandi%20(IIT%20Mandi)-green)  
- ![Department Badge](https://img.shields.io/badge/Department-Data%20Science%20and%20Engineering%20(DSE)-orange)
+![Name Badge](https://img.shields.io/badge/Name-PRIYAM-blue)  
+![University Badge](https://img.shields.io/badge/University-Indian%20Institute%20of%20Technology%20Mandi%20(IIT%20Mandi)-green)  
+![Department Badge](https://img.shields.io/badge/Department-Data%20Science%20and%20Engineering%20(DSE)-orange)
 
 ## Project Showcase
 
@@ -10,13 +12,13 @@
 
 Below are some small screenshots of the chat application:
 
-- **Login Page**:
+- **Login Page**:  
   ![Login Page](https://via.placeholder.com/150x100?text=Login+Page)
 
-- **Chat Interface**:
+- **Chat Interface**:  
   ![Chat Interface](https://via.placeholder.com/150x100?text=Chat+Interface)
 
-- **Profile Setup**:
+- **Profile Setup**:  
   ![Profile Setup](https://via.placeholder.com/150x100?text=Profile+Setup)
 
 ### Video Walkthrough
@@ -25,9 +27,9 @@ Watch the video walkthrough of the chat application to get a detailed overview o
 
 [![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/hqdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
+---
 
-
-# Tech Used
+## Tech Used
 
 - **Frontend**: ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)  
 - **Backend**: ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)  
@@ -35,6 +37,7 @@ Watch the video walkthrough of the chat application to get a detailed overview o
 - **File Upload**: ![Multer](https://img.shields.io/badge/Multer-ff5c5c?style=flat&logo=npm&logoColor=white)  
 - **Chatbot**: ![ChatGPT](https://img.shields.io/badge/OpenAI%20ChatGPT-00B2FF?style=flat&logo=openai&logoColor=white)
 
+---
 
 # System Design Document: Chat Application
 
@@ -116,8 +119,10 @@ The chat application consists of several interconnected components:
 - **Chatbot**: Uses AI to generate responses.
 - **Next Step**: Provides support without leaving the chat platform.
 
+---
+
 ## 4. System Architecture Diagram
 
 The system design of the chat application is illustrated by the following diagram:
 
-<img src="https://www.mermaidchart.com/raw/49a6fc30-b667-4f33-8e84-27465aa9bb52?theme=light&version=v0.1&format=svg" alt="System Architecture Diagram" style="width:40%;"/>
+<img src="https://www.mermaidchart.com/raw/49a6fc30-b667-4f33-8e84-27465aa9bb52?theme=light&version=v0.1&format=svg" alt="System Architecture Diagram" style="width:40%;" />
