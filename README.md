@@ -222,6 +222,7 @@ On browser open the following link:
 2. Fully responsive design .
 3. Chat application to stay connected.
 4. Real time message updates and notifications.
-5. Create chat groups and channels to communicate in groups.
-6. Integrated AI powered chatbot for ease—no need to switch between platforms.
+5. User can share the images and documents personally or in group chats.
+6. Create chat groups and channels to communicate in groups.
+7. Integrated AI powered chatbot for ease—no need to switch between platforms.
 
