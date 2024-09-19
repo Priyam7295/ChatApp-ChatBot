@@ -68,7 +68,8 @@ Below are some small screenshots of the chat application:
 To clone the chat application repository, run the following command:
 
 ```bash
-git clone https://github.com/Priyam7295/ChatApp-ChatBot.git
+1. git clone https://github.com/Priyam7295/ChatApp-ChatBot.git
+2. cd .\ChatApp-ChatBot\
 ```
 ### Step 2:
 **NOTE:- For evaluation ease I am providing my key for gemini ,I will remove it otherwise**.
