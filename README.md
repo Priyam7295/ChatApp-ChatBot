@@ -15,31 +15,38 @@
 
 ## 🎥 Project Showcase
 
-### Screenshots
-
-Below are some small screenshots of the chat application:
-
-<img src="https://github.com/user-attachments/assets/224bd978-fa3f-4781-b507-5f02b45fb2ea" width="300" />
-<img src="https://github.com/user-attachments/assets/3e6eb75b-f4d9-4944-9bfc-d7b54c89a76d" width="300" />
-<img src="https://github.com/user-attachments/assets/44bb9ac5-d4ab-4ec6-b99c-304c15cd95d6" width="300" />
-
-
-
-
-- **Login Page**:  
-  ![Login Page](https://via.placeholder.com/150x100?text=Login+Page)
-
-- **Chat Interface**:  
-  ![Chat Interface](https://via.placeholder.com/150x100?text=Chat+Interface)
-
-- **Profile Setup**:  
-  ![Profile Setup](https://via.placeholder.com/150x100?text=Profile+Setup)
-
 ### Video Walkthrough
 
 Watch the video walkthrough of the chat application to get a detailed overview of its features:
 
 [![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/hqdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
+
+### Screenshots
+
+Below are some small screenshots of the chat application:
+
+**LANDING PAGE**
+
+<img src="https://github.com/user-attachments/assets/224bd978-fa3f-4781-b507-5f02b45fb2ea" width="300" />
+<img src="https://github.com/user-attachments/assets/3e6eb75b-f4d9-4944-9bfc-d7b54c89a76d" width="300" />
+<img src="https://github.com/user-attachments/assets/44bb9ac5-d4ab-4ec6-b99c-304c15cd95d6" width="300" />
+
+**CHAT INTERFACE**
+
+<img src="https://github.com/user-attachments/assets/14bff2c0-9ffb-4a02-bee5-5fe37025c999" width="300" />
+<img src="https://github.com/user-attachments/assets/819c6ce4-900c-414d-8fe2-2e3ed0751070" width="300" />
+<img src="https://github.com/user-attachments/assets/07b7a31b-2cb1-449f-b8dd-3869ec501942" width="300" />
+
+**CHAT BOT INTEGRATED**
+
+<img src="https://github.com/user-attachments/assets/a33b7fdf-0c52-4c81-8d1e-5ad82a2b862a" width="300" />
+
+
+
+
+
+
 
 ---
 
