@@ -1,4 +1,4 @@
-# Chat Application
+# ChatBot integrated ChatApp 
 
 ## 🚀 Content
 1. [📜 Personal Information](#personal-information)
@@ -71,4 +71,20 @@ Copy and edit the below content inside the .env accordingly.
 jhas
 asdas
 asdf
+```
+### Step 4:
+```
+get key for gemini asldkjalfmla;d
+```
+### Step 5:
+Run the client
+```
+cd safdas
+npm run dev
+```
+### Step 6:
+Run the server
+```
+cd safdas
+node ksa
 ```
