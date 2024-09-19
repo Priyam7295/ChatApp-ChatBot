@@ -219,8 +219,9 @@ On browser open the following link:
 ---
 ## Features
 1. Authentication and Authorisation using JWT tokens.
-2. Chat application to stay connected.
-3. Real time message updates and notifications.
-4. Create chat groups and channels to communicate in groups.
-5. Integrated AI powered chatbot for ease—no need to switch between platforms.
+2. Fully responsive design .
+3. Chat application to stay connected.
+4. Real time message updates and notifications.
+5. Create chat groups and channels to communicate in groups.
+6. Integrated AI powered chatbot for ease—no need to switch between platforms.
 
